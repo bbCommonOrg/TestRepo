@@ -1,0 +1,6 @@
+# .buildkite/pipeline.yml
+steps:
+  - name: ":hammer: build "
+    command: echo "Hello world"
+#   agents:
+#      target: assembler
